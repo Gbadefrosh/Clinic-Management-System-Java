@@ -6,7 +6,7 @@ Java console app for managing a clinic using OOP principles, supports patient. v
 1. **Clone or Download the Repo:**
    - Click the green `Code` button → choose **Download ZIP** OR use:
      ```bash
-     git clone https://github.com/Gbadefrosk/Clinic-Management-System-Java.git
+     git clone[https://github.com/Gbadefrosh/Clinic-Management-System-Java.git]
      ```
 
 2. **Open in Your IDE:**
